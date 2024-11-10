@@ -1,14 +1,16 @@
-<h1 align="center"><b>Hi , I'm Ángel Sánchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Ángel Sánchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/angeelsanchez"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+enthusiast...&hearts;++;Full+Stack+Web+Developer,;Active+Learner/Researcher,;Love+to+learn+new+technologies...😝"></a>
+  <a href="https://github.com/angeelsanchez">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+enthusiast...&hearts;++;Full+Stack+Web+Developer,;Active+Learner/Researcher,;Love+to+learn+new+technologies...😝">
+  </a>
 </p>
 
 <br>
 
-## <picture><img src = "https://user-images.githubusercontent.com/92488296/220788395-4a1e8e64-7ac9-4953-ba77-1e5cd7e03dc1.gif" width = 50px></picture> **About me**
+## <picture><img src="https://user-images.githubusercontent.com/92488296/220788395-4a1e8e64-7ac9-4953-ba77-1e5cd7e03dc1.gif" width="50px"></picture> **About Me**
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/92488296/220676533-cd004aa3-b957-4ea4-a464-c872656aba9b.gif" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/92488296/220676533-cd004aa3-b957-4ea4-a464-c872656aba9b.gif" width="250px"></picture>
 
 <br>
 
@@ -21,7 +23,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
 <br>
 
@@ -66,36 +68,52 @@
 </p>
 
 <br>
-<br>
 
 ---
 
+## 🏆 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/d934df6e-a17d-460b-b5f5-c86ce6ca9093/public_url" target="_blank">
+    <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150" alt="GitHub Foundations Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 I successfully completed the <b>GitHub Foundations</b> certification! 🚀<br>
+  🎉 You can verify it by clicking <a href="https://www.credly.com/badges/d934df6e-a17d-460b-b5f5-c86ce6ca9093/public_url" target="_blank"><b>here</b></a>.
+</p>
+
+---
+
+## <b>Let's Connect!</b><img src="https://user-images.githubusercontent.com/92488296/220689831-4dc0eabf-e548-44fc-8da7-1df50d0b9aff.gif" width="80">
+
 <br>
 
-## <b> Let's Connect..!</b><img src="https://user-images.githubusercontent.com/92488296/220689831-4dc0eabf-e548-44fc-8da7-1df50d0b9aff.gif" width ="80">
-
-<br>
 <div align='left'>
 
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/angelsl" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  angeelsanchez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+  <a href="https://linkedin.com/in/angelsl" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin:  angeelsanchez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+  </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:angel.da@hotmail.es" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  angeelsanchez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:angel.da@hotmail.es" target="_blank">
+    <img src="https://img.shields.io/badge/gmail:  angeelsanchez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+  </a>
 </li>
-	
+
 </ul>
+
 </div>
 
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
